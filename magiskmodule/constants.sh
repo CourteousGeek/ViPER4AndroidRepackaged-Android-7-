@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # minimum required SDK level
-MINAPI=28
+MINAPI=24
 
 # the ViPER4Android user app package
 VIPERFXPACKAGE="com.pittvandewitt.viperfx"
